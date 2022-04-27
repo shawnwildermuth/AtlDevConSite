@@ -1,0 +1,19 @@
+img.logo {
+  width: 380px;
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.bg-devcon {
+  background: linear-gradient(to bottom right, #2c3944, rgb(68, 92, 118));
+}
+
+.bg-devcon-alt {
+  background: linear-gradient(to bottom right, #1b1228, rgb(44, 20, 84));
+}
+
+.lgx-banner-gradient .lgx-inner,
+.lgx-banner-gradient .bg-transparent,
+.bg-transparent {
+  background: transparent !important;  
+}
