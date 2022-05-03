@@ -1,0 +1,20 @@
+{
+  "baseUrl": "https://www.atldevcon.com",
+  "eventDate": "2022-09-17",
+  "sessionizeId": "",
+  "sessionizeKey": "",
+  "location": {
+    "name": "Kenessaw State - Marietta",
+    "address": {
+      "street": "1100 S. Marietta Parkway",
+      "city": "Marietta",
+      "state": "GA",
+      "postalCode": "30060",
+      "googleMapUrl": ""
+    }
+  },
+  "callForSpeakers": {
+    "openDate": "2022-05-30",
+    "closeDate": "2022-07-30"
+  }
+}

@@ -17,3 +17,24 @@ img.logo {
 .bg-transparent {
   background: transparent !important;  
 }
+
+.lgx-banner .date span {
+  color: #c6d219;
+}
+
+.lgx-about-text {
+  font-size: 2rem;
+  line-height: 3rem;
+  text-align: left;
+}
+
+.lgx-about-text .hi-text {
+  font-size: 2.5rem;
+  text-align: center;
+  line-height: 3rem;
+}
+
+.lgx-about-text .text {
+  font-size: 2.2rem;
+  line-height: 3rem;
+}
