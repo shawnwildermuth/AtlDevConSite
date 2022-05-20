@@ -1,0 +1,44 @@
+---
+layout: _layout.njk
+template: "page page-template"
+---
+<section>
+    <div class="lgx-banner lgx-banner-inner">
+        <div class="lgx-inner-bg">
+            <div class="lgx-inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="lgx-heading-area">
+                                <h2 class="lgx-heading lgx-heading-brand">
+                                    <span class="back-heading"><i class="fa fa-{{ icon }}" aria-hidden="true"></i></span>
+                                    <span class="heading">{{ pagename }}</span>
+                                </h2>
+                            </div>
+                        </div>
+                    </div><!--//.ROW-->
+                </div><!-- //.CONTAINER -->
+            </div><!-- //.INNER -->
+        </div>
+    </div>
+</section>
+
+
+<section>
+    <div class="lgx-contact">
+        <div class="lgx-contact-style">
+            <div class="lgx-inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            {{ content | safe }}
+                        </div>
+                    </div>
+                    <!--//.ROW-->
+                </div>
+                <!-- //.CONTAINER -->
+            </div>
+            <!-- //.INNER -->
+        </div>
+    </div>
+</section>
