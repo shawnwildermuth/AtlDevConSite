@@ -4,6 +4,7 @@ module.exports = function (cfg) {
 
   cfg.addPassthroughCopy("content/assets");
   cfg.addPassthroughCopy("content/*.xml");
+  cfg.addPassthroughCopy("content/robots.txt");
 
   Object.keys(filters).forEach((key) => {
     cfg.addFilter(key, filters[key]);
