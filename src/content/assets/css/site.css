@@ -4,6 +4,14 @@ img.logo {
   margin-bottom: 10px;
 }
 
+.lgx-header {
+  top: 6rem;
+}
+
+.lgx-header.menu-onscroll {
+  top: 0;
+}
+
 .bg-devcon {
   background: linear-gradient(to bottom right, #2c3944, rgb(68, 92, 118));
 }
@@ -37,4 +45,34 @@ img.logo {
 .lgx-about-text .text {
   font-size: 2.2rem;
   line-height: 3rem;
+}
+
+.btn-xl {
+  padding:12px 18px;
+  font-size:24px;
+  line-height:1.5;
+  border-radius:6px
+}
+
+.mt-4 {
+  margin-top: 2rem;
+}
+
+.announcement {
+  margin: 0;
+  text-align: center;
+  padding: .5rem 0;
+  background-color: #00b9ff;
+  font-size: 1.5rem;
+  color: #222;
+  font-weight: bold;
+}
+
+.announcement a {
+  color: rgb(252, 252, 184);
+  text-shadow: #888 1px 1px 5px;
+}
+
+.announcement a:hover {
+  text-shadow: #000 2px 2px 5px;
 }
