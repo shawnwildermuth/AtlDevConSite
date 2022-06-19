@@ -58,6 +58,15 @@ img.logo {
   margin-top: 2rem;
 }
 
+.mx-8 {
+  margin-top: 2rem;
+}
+
+.border-x {
+  border-top: solid #888 1px;
+  border-bottom: solid #888 1px;
+}
+
 .announcement {
   margin: 0;
   text-align: center;
@@ -76,3 +85,4 @@ img.logo {
 .announcement a:hover {
   text-shadow: #000 2px 2px 5px;
 }
+
