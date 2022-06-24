@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "run-p dev:*",
-    "dev:serve": "eleventy --serve",
-    "build": "run-p build:*",
-    "build:prod": "eleventy"
+    "dev": "run-p dev-*",
+    "dev-serve": "eleventy --serve",
+    "build": "run-p build-*",
+    "build-prod": "eleventy"
   },
   "keywords": [],
   "author": "",

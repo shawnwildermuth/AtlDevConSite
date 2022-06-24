@@ -86,3 +86,6 @@ img.logo {
   text-shadow: #000 2px 2px 5px;
 }
 
+.lgx-about .topic-list {
+  padding-left: 2rem; 
+}
