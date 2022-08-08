@@ -1,8 +1,7 @@
 {
   "baseUrl": "https://www.atldevcon.com",
   "eventDate": "2022-09-17",
-  "sessionizeId": "",
-  "sessionizeKey": "",
+  "googleApiKey": "AIzaSyDBLMm4eqzhFd30YxLqdlFUYB82D6g6Cqk",
   "location": {
     "name": "Kenessaw State - Marietta",
     "address": {
@@ -18,6 +17,7 @@
     "closeDate": "2022-07-30"
   },
   "sessionize": {
-    "embedId": ""  
+    "embedId": "",
+    "key": ""  
   }
 }

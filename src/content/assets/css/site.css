@@ -4,6 +4,15 @@ img.logo {
   margin-bottom: 10px;
 }
 
+.lgx-map, .lgx-map .heading {
+  color: #fff;
+}
+
+.lgx-map .back-heading {
+  color: rgb(134, 134, 134);
+}
+
+
 .lgx-header {
   top: 6rem;
 }
