@@ -17,6 +17,11 @@ img.logo {
   top: 6rem;
 }
 
+#sessionize.sessionize-wrapper .sz-session.sz-session--full .sz-session__room, 
+#sessionize.sessionize-wrapper .sz-session.sz-session--full .sz-session__time {
+  display: none !important;
+}
+
 .lgx-header.menu-onscroll {
   top: 0;
 }
