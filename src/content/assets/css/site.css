@@ -103,3 +103,21 @@ img.logo {
 .lgx-about .topic-list {
   padding-left: 2rem; 
 }
+
+.fallback-schedule {
+  display: none;
+}
+.fallback-schedule.mobile {
+  display: block;
+}
+
+
+@media only screen and (min-width: 640px) {
+  .fallback-schedule {
+    display: block;
+  }
+  .fallback-schedule.mobile {
+    display: none;
+  }
+
+}
