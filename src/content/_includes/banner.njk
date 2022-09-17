@@ -12,7 +12,7 @@
                 <h2 class="date">
                   <span>{{ site.eventDate | formatDate }}</span></h2>
                 <div class="circular-countdown-area">
-                  <div id="circular-countdown" data-date="{{ site.eventDate | format("P") }}" ></div>
+                  <div id="circular-countdown" data-date="{{ site.eventDate | formatISO("P") }}" ></div>
                 </div>
               </div>
             </div>
