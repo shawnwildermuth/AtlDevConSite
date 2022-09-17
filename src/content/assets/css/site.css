@@ -12,11 +12,6 @@ img.logo {
   color: rgb(134, 134, 134);
 }
 
-
-.lgx-header {
-  top: 6rem;
-}
-
 #sessionize.sessionize-wrapper .sz-session.sz-session--full .sz-session__room, 
 #sessionize.sessionize-wrapper .sz-session.sz-session--full .sz-session__time {
   display: none !important;
