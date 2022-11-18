@@ -16,11 +16,8 @@ jobs:
     name: Build and Deploy Job
     
     steps:
-      - name: Use Node.js 15x
+      - name: Use Node.js
         uses: actions/setup-node@v3
-
-        with:
-          node-version: 15.x
       - run: npm ci
       - run: npm run build --if-present
       - name: Build And Deploy
