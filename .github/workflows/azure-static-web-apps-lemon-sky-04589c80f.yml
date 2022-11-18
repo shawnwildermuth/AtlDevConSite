@@ -20,11 +20,11 @@ jobs:
         uses: actions/setup-node@v3
 
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: 15.x
       - run: npm ci
-        working-directory: src
+        working-directory: ../src
       - run: npm run build --if-present
-        working-directory: src
+        working-directory: ../src
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
