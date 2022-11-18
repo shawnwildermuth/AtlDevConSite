@@ -1,11 +1,11 @@
 {
-  "baseUrl": "https://www.atldevcon.com",
+  "baseUrl": "https://www.atlantacloudsaturday.com",
   "eventDate": "2023-03-25T12:30:00Z", 
-  "googleApiKey": "AIzaSyDBLMm4eqzhFd30YxLqdlFUYB82D6g6Cqk",
+  "googleApiKey": "",
   "location": {
     "name": "Kenessaw State - Marietta",
     "address": {
-      "street": "1100 S. Marietta Parkway",
+      "street": "840 Polytechnic Ln",
       "city": "Marietta",
       "state": "GA",
       "postalCode": "30060",
@@ -13,10 +13,10 @@
     }
   },
   "callForSpeakers": {
-    "openDate": "2022-05-30",
-    "closeDate": "2022-07-30"
+    "openDate": "2023-01-01",
+    "closeDate": "2023-02-15"
   },
   "sessionize": {
-    "embedId": "076er4di"
+    "embedId": ""
   }
 }
