@@ -1,7 +1,7 @@
 {
-  "baseUrl": "https://www.atlantacloudsaturday.com",
+  "baseUrl": "https://atlcloudconf.com",
   "eventDate": "2023-03-25T12:30:00Z", 
-  "googleApiKey": "",
+  "googleApiKey": "AIzaSyDre1AtxH-ba8B79nutP8C2hLfWYEogn48",
   "location": {
     "name": "Kenessaw State - Marietta",
     "address": {
@@ -9,7 +9,7 @@
       "city": "Marietta",
       "state": "GA",
       "postalCode": "30060",
-      "googleMapUrl": ""
+      "googleMapUrl": "https://goo.gl/maps/o4DrXMHJdjJjQtFSA"
     }
   },
   "callForSpeakers": {
