@@ -1,4 +1,4 @@
-Sitemap: https://www.atldevcon.com/sitemap.xml
+Sitemap: https://www.atlantacloudconference.com/sitemap.xml
 
 User-agent: *
 Disallow:
