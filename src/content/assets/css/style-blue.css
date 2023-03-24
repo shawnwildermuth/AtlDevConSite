@@ -942,7 +942,7 @@ button {
 /* 2.2 BANNER SECTION
 ---------------------------------------------------------------------*/
 .lgx-banner {
-  background: url('http://placehold.it/1920x1002') top center no-repeat fixed;
+  /*background: url('http://placehold.it/1920x1002') top center no-repeat fixed;*/
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -986,7 +986,7 @@ button {
   text-transform: uppercase;
 }
 .lgx-banner .title span {
-  color: #42bd41;
+  color: #075d85;
 }
 .lgx-banner .date {
   font-family: 'Lora', serif;

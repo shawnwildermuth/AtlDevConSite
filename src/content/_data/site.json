@@ -1,22 +1,22 @@
 {
-  "baseUrl": "https://www.atldevcon.com",
-  "eventDate": "2022-09-17T12:30:00Z", 
-  "googleApiKey": "AIzaSyDBLMm4eqzhFd30YxLqdlFUYB82D6g6Cqk",
+  "baseUrl": "https://www.atldevcon.com/",
+  "eventDate": "2023-09-16T08:00:00Z", 
+  "googleApiKey": "",
   "location": {
     "name": "Kenessaw State - Marietta",
     "address": {
-      "street": "1100 S. Marietta Parkway",
+      "street": "840 Polytechnic Ln",
       "city": "Marietta",
       "state": "GA",
       "postalCode": "30060",
-      "googleMapUrl": ""
+      "googleMapUrl": "https://goo.gl/maps/o4DrXMHJdjJjQtFSA"
     }
   },
   "callForSpeakers": {
-    "openDate": "2022-05-30",
-    "closeDate": "2022-07-30"
+    "openDate": "2023-01-01",
+    "closeDate": "2023-02-15"
   },
   "sessionize": {
-    "embedId": "076er4di"
+    "embedId": "gx6mmlxk"
   }
 }
