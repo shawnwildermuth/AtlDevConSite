@@ -1,22 +1,22 @@
 {
   "baseUrl": "https://www.atldevcon.com/",
-  "eventDate": "2024-09-07T08:00:00Z",
+  "eventDate": "2024-09-21T08:00:00Z",
   "googleApiKey": "",
   "location": {
-    "name": "Kenessaw State - Marietta",
+    "name": "Innovation Academy",
     "address": {
-      "street": "840 Polytechnic Ln",
-      "city": "Marietta",
+      "street": "125 Milton Ave",
+      "city": "Alpharetta",
       "state": "GA",
-      "postalCode": "30060",
-      "googleMapUrl": "https://goo.gl/maps/o4DrXMHJdjJjQtFSA"
+      "postalCode": "30009",
+      "googleMapUrl": "https://maps.app.goo.gl/GSphVfvGLEZWxrKL8"
     }
   },
   "callForSpeakers": {
-    "openDate": "2023-05-30",
-    "closeDate": "2023-07-30"
+    "openDate": "2024-06-15",
+    "closeDate": "2024-08-15"
   },
   "sessionize": {
-    "embedId": "fnm1q1de"
+    "embedId": "tqwg0na7"
   }
 }
